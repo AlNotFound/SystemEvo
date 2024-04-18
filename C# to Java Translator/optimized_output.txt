@@ -1,0 +1,7 @@
+int a = (((5 + 2) * 3) + 76);
+while (true){
+a = (a + 1);
+};
+boolean hello(int a, String b) {
+System.out.print(123);
+};

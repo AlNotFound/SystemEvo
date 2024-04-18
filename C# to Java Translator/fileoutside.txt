@@ -1,0 +1,35 @@
+float e = 10.5;
+float n;
+
+int a = (5 + 2) * 3 + 76;
+if (a == 5) {
+    int d = 5;
+}
+
+
+while (true) {
+    a = a + 1;
+    int f = 5;
+}
+
+// aboba
+// jopa
+
+/*
+,,,
+*/
+
+for (int i = 0; i < a; i=i+1) {
+    for (int j = 1; j < 10; j=j+1) {
+
+        int zzzz = 4;
+        // bzzzzz = 10;
+        // c = aboba + 5;
+    }
+}
+
+bool hello(int a, String b) {
+    Console.Write(123);
+}
+
+int zzzzz = 5;
